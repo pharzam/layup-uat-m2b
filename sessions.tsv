@@ -1,0 +1,2 @@
+session	task	attempt	role	harness	version	model	base	records	prompt_bytes	prompt_tokens	context	cap	wall	vars	policy
+S-017560b2	T-at3u	1	probe	claude	2.1.296 (Claude Code)	claude-sonnet-5-5	657bc68df9205d243e8fd62e97ad9f6ddc936364	19b7492e9a31c19585714d9965cbd55ec92d11db	453	114	1000000	1.00	15	ANTHROPIC_DEFAULT_HAIKU_MODEL=claude-sonnet-5-5	—
