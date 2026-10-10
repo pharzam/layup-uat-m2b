@@ -2,3 +2,4 @@ n	kind	attempt	session	base	sha	detail	time
 1	attempt	1	—	657bc68df9205d243e8fd62e97ad9f6ddc936364	—	—	2026-10-10T14:58:47Z
 2	session	1	S-a0460618	—	—	—	2026-10-10T14:58:48Z
 3	result	1	S-a0460618	—	—	done	2026-10-10T14:58:57Z
+4	push	1	S-a0460618	—	dddf30c76b4a32485c6cb5d3a3c375e71dd25e03	task/T-rmgw/1	2026-10-10T14:58:58Z
