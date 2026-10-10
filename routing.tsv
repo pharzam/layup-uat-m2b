@@ -1,0 +1,3 @@
+role	tier	position	harness	model
+developer	execution	1	claude	claude-sonnet-5-5
+developer	execution	2	devin	swe-2-high
