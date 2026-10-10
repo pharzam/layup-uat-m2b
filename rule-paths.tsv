@@ -1,0 +1,14 @@
+pattern	exception	source
+.github/	—	baseline
+.githooks/	—	baseline
+.gitattributes	—	baseline
+AGENTS.md	—	baseline
+CLAUDE.md	—	baseline
+docs/engineering-discipline.md	—	baseline
+docs/issue-workflow.md	—	baseline
+docs/ci/	—	baseline
+docs/tests/	—	baseline
+docs/gates.tsv	—	catalog
+docs/setup/	—	architecture
+docs/facts/	—	architecture
+docs/guardrails.md	added lines in section 2	baseline
